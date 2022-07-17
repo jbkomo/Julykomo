@@ -1,0 +1,2 @@
+# Julykomo
+Devops practice
